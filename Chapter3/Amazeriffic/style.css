@@ -26,6 +26,21 @@ header nav {
   width: 285px;
 }
 
+main h2{
+	font-size: 5em;
+}
+
+main h3{
+	font-size: 2em;
+	color: darkgreen;
+	width: 855px;
+}
+
+main p{
+	font-size: 1.5em;
+	color: purple;
+	width: 700px;
+}
 main {
   background: white;
   overflow: auto;
